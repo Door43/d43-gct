@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gct:home|Door43 (gct)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gct|d43-gct repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gct/archive/master.zip|d43-gct.zip]]
+
+**Recent Changes**
+{{changes>ns = gct}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gct|Ethnologue data]]
+
